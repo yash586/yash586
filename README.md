@@ -61,6 +61,6 @@ npx koverai generate
 I'm actively looking for **full-stack or backend Node.js / TypeScript roles** — remote or hybrid, contract or permanent.
 
 📧 [yashkalan1997@gmail.com](mailto:yashkalan1997@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/yashkalan)  
+💼 [LinkedIn](https://www.linkedin.com/in/yash-kalan-35b294155/)  
 📦 [koverai on npm](https://www.npmjs.com/package/koverai)  
 🌍 Based in Galway · Irish Stamp 4 · No visa sponsorship required
