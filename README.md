@@ -41,7 +41,7 @@ npx koverai generate
 
 ## Experience highlights
 
-- **100+ production PRs** at Flexmanager — owned compliance dashboard modules end to end
+- **100+ production PRs** — owned compliance dashboard modules end to end
 - **Migrated legacy jQuery** systems to modern React + TypeScript component architecture
 - **Redis caching, AWS S3, Docker** — production infrastructure experience, not just tutorials
 - **MSc Big Data Management & Analytics** — Griffith College Dublin, 2:1 Honours
